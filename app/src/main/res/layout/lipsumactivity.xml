@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.foguangshan.widgetlibrary.observableScroll.ObservableScrollView
+    android:id="@+id/scroll"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:fillViewport="true"
+    android:overScrollMode="never"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <android:LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_height="wrap_content"
+        android:layout_width="fill_parent">
+        <android:TextView
+            android:id="@+id/lipsumTextView"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/lipsum"
+            >
+        </android:TextView>
+    </android:LinearLayout>
+</com.foguangshan.widgetlibrary.observableScroll.ObservableScrollView>
