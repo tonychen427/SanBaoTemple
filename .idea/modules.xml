@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SanBaoTemple.iml" filepath="$PROJECT_DIR$/SanBaoTemple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/business provider/business provider.iml" filepath="$PROJECT_DIR$/business provider/business provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/data service/data service.iml" filepath="$PROJECT_DIR$/data service/data service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/model library/model library.iml" filepath="$PROJECT_DIR$/model library/model library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/widget library/widget library.iml" filepath="$PROJECT_DIR$/widget library/widget library.iml" />
+    </modules>
+  </component>
+</project>
